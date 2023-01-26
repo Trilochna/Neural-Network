@@ -1,3 +1,11 @@
 # Neural-Network
 
 Practice Repo
+
+
+
+
+
+
+
+
